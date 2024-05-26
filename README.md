@@ -1,4 +1,4 @@
-# Sistem Perpus Universitas Ngudi Waluyo
+# Mahasiswa Bersuara Universitas Ngudi Waluyo
 <h4>Nama Project ini adalah : Mahasiswa Bersuara</h4>
 </br>
 <img src="assets/img/logoku.png" alt="">
